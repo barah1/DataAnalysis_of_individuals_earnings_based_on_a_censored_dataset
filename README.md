@@ -1,0 +1,1 @@
+# DataAnalysis_of_individuals_earnings_based_on_a_censored_dataset
